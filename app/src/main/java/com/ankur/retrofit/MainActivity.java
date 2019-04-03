@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
     private RecyclerView.Adapter adapter;
     private List<MyPromo> listItems;
+    //hello
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
